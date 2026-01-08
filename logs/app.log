@@ -1,0 +1,6 @@
+2026-04-11 09:55:54,907 | INFO | __main__ | Initializing chat model provider=openai model=gpt-5.1
+2026-04-11 09:56:03,697 | INFO | __main__ | Chat model initialized provider=openai model=gpt-5.1
+2026-04-11 09:56:41,608 | INFO | __main__ | Initializing chat model provider=openai model=gpt-5.1
+2026-04-11 09:56:47,374 | INFO | __main__ | Chat model initialized provider=openai model=gpt-5.1
+2026-04-11 10:17:13,359 | INFO | __main__ | Initializing embeddings model provider=openai model=text-embedding-3-small
+2026-04-11 10:17:15,443 | INFO | __main__ | Embeddings model initialized provider=openai model=text-embedding-3-small
