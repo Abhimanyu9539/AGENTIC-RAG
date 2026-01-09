@@ -8,8 +8,11 @@ dependencies = [
     "langchain>=1.2.15",
     "langchain-community>=0.4.1",
     "langchain-openai>=1.1.12",
+    "langchain-opendataloader-pdf>=2.0.0",
     "langchain-pinecone>=0.2.13",
     "langgraph>=1.1.6",
+    "opendataloader-pdf>=2.2.1",
+    "pymupdf>=1.27.2.2",
 ]
 
 

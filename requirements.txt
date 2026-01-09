@@ -4,3 +4,6 @@ langgraph
 langchain-openai
 langchain-community
 langchain-pinecone
+langchain-opendataloader-pdf
+opendataloader-pdf
+PyMuPDF
